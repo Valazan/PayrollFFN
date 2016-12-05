@@ -1,0 +1,45 @@
+PROJECT SCHEDULE:
+
+_ Make the use cases (requirements analysis)
+_ Make the PhoneBook project work
+    . Solve the dependencies
+    . See how to setup the JBoss server
+-> Learn how to use servers (injects, special commands and other things...)
+
+
+WHAT WE'VE GOT:
+_ The requirements paper
+_ The PhoneBook project to steal modules and other things
+
+
+WAY OF WORKING:
+_ TDD (Test Driven Development)
+_ 
+
+
+PREPARING LINUX:
+_ Install Java 8 (clean OpenJDK?)
+
+
+TOOLS WE'RE USING:
+_ ArgoUML for the design
+_ GitHub
+_ Collabedit to share code
+
+
+
+MILESTONES:
+[ ] Install ECLIPSE NEON for JAVA EE
+    . Install Java8 before "http://tecadmin.net/install-oracle-java-8-jdk-8-ubuntu-via-ppa/"
+    . Install JBoss Tools from here "https://marketplace.eclipse.org/node/1617241"
+    . Install Maven (how?)
+[ ] Prepare and synchronize Neon with GitHub. Upload the basics of the project (Use Cases, etc.)
+[ ] Have the VM loaded with the Phonebook project
+[ ] VM install MySQL
+[ ] Make the use cases
+[ ] Design the software
+[ ] Read the Wildfly book (and learn :))
+[ ] Solve these doubts:
+    . How does Maven work?
+    . How does SoapUI work?
+    . How does Arquillian work?
